@@ -1,0 +1,14 @@
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\bin\Debug\WindowsForms.exe
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\bin\Debug\SharpGL.dll
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\bin\Debug\SharpGL.SceneGraph.dll
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\bin\Debug\SharpGL.WinForms.dll
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\obj\Debug\WindowsForms.exe
+D:\3 курс, 2 семестр\комп граф\repos\WindowsForms\obj\Debug\WindowsForms.pdb
